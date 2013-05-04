@@ -1,6 +1,6 @@
 <?php include("inc/products.php"); ?>
 <?php 
-$pageTitle = "shirts!"; 
+$pageTitle = "Meow!"; 
 $section = "shirts";
 include('inc/header.php'); ?>
 
